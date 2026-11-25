@@ -1,10 +1,5 @@
 <div align="center">
 
-<h1>
-  <img src="https://raw.githubusercontent.com/TrackPilot-fit/.github/main/profile/logo.svg" width="32" height="32" align="absmiddle" alt="TrackPilot.fit" />
-  TrackPilot.fit
-</h1>
-
 ### **Transformez une simple trace GPX ou FIT en véritable plan de route**
 *Cyclisme • Gravel • VTT • Trail • Randonnée • Marche*
 
