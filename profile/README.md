@@ -1,13 +1,26 @@
 <div align="center">
 
-# 🧭 TrackPilot.fit
+<h1>
+  <img src="https://raw.githubusercontent.com/TrackPilot-fit/.github/main/profile/logo.svg" width="32" height="32" align="absmiddle" alt="TrackPilot.fit" />
+  TrackPilot.fit
+</h1>
 
 ### **Transformez une simple trace GPX ou FIT en véritable plan de route**
 *Cyclisme • Gravel • VTT • Trail • Randonnée • Marche*
 
-[![Site Officiel](https://img.shields.io/badge/🌐_Portail_Officiel-trackpilot.fit-00E676?style=for-the-badge&labelColor=08090d)](https://trackpilot.fit)
-[![TrackPilot Cycling](https://img.shields.io/badge/🚴_TrackPilot_Cycling-cycling.trackpilot.fit-FF6D00?style=for-the-badge&labelColor=08090d)](https://cycling.trackpilot.fit)
-[![TrackPilot Trail](https://img.shields.io/badge/⛰️_TrackPilot_Trail-trail.trackpilot.fit-10B981?style=for-the-badge&labelColor=08090d)](https://trail.trackpilot.fit)
+<p align="center">
+  <a href="https://trackpilot.fit">
+    <img src="https://img.shields.io/badge/🌐_Portail_Officiel-trackpilot.fit-00E676?style=for-the-badge&labelColor=08090d" alt="Portail Officiel trackpilot.fit" />
+  </a>
+  <br/>
+  <a href="https://cycling.trackpilot.fit">
+    <img src="https://img.shields.io/badge/🚴_TrackPilot_Cycling-cycling.trackpilot.fit-FF6D00?style=for-the-badge&labelColor=08090d" alt="TrackPilot Cycling" />
+  </a>
+  <br/>
+  <a href="https://trail.trackpilot.fit">
+    <img src="https://img.shields.io/badge/⛰️_TrackPilot_Trail-trail.trackpilot.fit-10B981?style=for-the-badge&labelColor=08090d" alt="TrackPilot Trail" />
+  </a>
+</p>
 
 </div>
 
